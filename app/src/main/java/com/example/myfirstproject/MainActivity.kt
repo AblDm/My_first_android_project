@@ -1,5 +1,6 @@
 package com.example.myfirstproject
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
@@ -16,7 +17,8 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun openSecondActivity(){
-
+        val intent = Intent(this, SecondActivity::class.java)
+        startActivity(intent)
 
     }
 }
