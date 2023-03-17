@@ -2,4 +2,5 @@
 <resources>
     <dimen name="LargeSize">24sp</dimen>
     <dimen name="layout_big">32dp</dimen>
+    <dimen name="smallText">14sp</dimen>
 </resources>

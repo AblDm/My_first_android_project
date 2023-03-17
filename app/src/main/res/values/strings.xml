@@ -6,4 +6,7 @@
     <string name="lorus_ipsum">Vitae auctor eu augue ut lectus arcu bibendum at varius. Id aliquet lectus proin nibh nisl condimentum id venenatis. Mauris a diam maecenas sed enim ut sem viverra. Diam vel quam elementum pulvinar etiam. Consequat mauris nunc congue nisi. Vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor. Urna et pharetra pharetra massa. Nullam eget felis eget nunc lobortis mattis aliquam faucibus. Semper eget duis at tellus at urna condimentum mattis. Neque viverra justo nec ultrices dui sapien eget. A diam maecenas sed enim ut. Ornare suspendisse sed nisi lacus sed viverra tellus in. </string>
     <string name="hintPass">●●●●●●●●●●</string>
     <string name="hintLogin">Enter login</string>
+    <string name="password">Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="login">Login</string>
 </resources>
